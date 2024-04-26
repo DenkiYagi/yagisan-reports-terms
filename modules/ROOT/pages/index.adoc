@@ -1,0 +1,10 @@
+= yagisan-reports 利用規約等
+
+== SDKライセンス
+
+* xref:trial.adoc[トライアル使用許諾規約 第1版 (2024年4月22日)]
+* 本番環境で使用する場合は別途契約が必要です。詳しくは https://forms.office.com/pages/responsepage.aspx?id=dZ5_ieei_U6Vc4pDaGc8qRuMo2APGFlFgv74yyBY6L1UNVNVWFFZMzU2T1dSQ1hVNzZIMElZOTVRWSQlQCN0PWcu[yagisan-reportsお問合せフォーム] からご連絡ください。
+
+== 個人情報関連
+
+* https://denkiyagi.jp/privacy-policy.html[プライバシーポリシー]

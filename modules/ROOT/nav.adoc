@@ -1,0 +1,5 @@
+.SDKライセンス
+* xref:trial.adoc[トライアル使用許諾規約]
+
+.個人情報関連
+* https://denkiyagi.jp/privacy-policy.html[プライバシーポリシー]

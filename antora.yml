@@ -1,0 +1,6 @@
+name: terms
+title: 利用規約等
+version: ~
+nav:
+- modules/ROOT/nav.adoc
+start_page: index.adoc
