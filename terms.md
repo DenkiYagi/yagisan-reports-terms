@@ -215,6 +215,6 @@
 
 ## 改定履歴
 
-- 2025年11月6日 制定
+- 2025年11月7日 制定
 - 本規約はGitHubにて改版管理を行っております。
   - https://github.com/DenkiYagi/yagisan-reports-terms
